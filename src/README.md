@@ -1,6 +1,6 @@
 # Java Topics
 
-* Will the code inside the "finally" block still be executed if there is a return (or throw) statement inside the "try" or "catch" block?
+* [Will the code inside the "finally" block still be executed if there is a return (or throw) statement inside the "try" or "catch" block?](#user-content-will-the-code-inside-the-finally-block-still-be-executed-if-there-is-a-return-or-throw-statement-inside-the-try-or-catch-block)
 
 ### [Will the code inside the "finally" block still be executed if there is a return (or throw) statement inside the "try" or "catch" block?](Finally.java)
 
