@@ -1,8 +1,10 @@
 
 /*
  * The general rule is that 
- * if there is a return statement in try or catch block
- * the finally block will be executed before the result is returned
+ * if there is a return (or throw) statement in the try or catch block
+ * the finally block will be executed before the result is returned but after the result is executed
+ * 
+ * Check out the 6 examples below
  */
 public class Finally {
 
