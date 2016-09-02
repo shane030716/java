@@ -29,3 +29,4 @@ To to list:
 * sockets
 * `static` block
 * serialization / deserialization and the `transient` keyword
+* streams
