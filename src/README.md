@@ -18,15 +18,17 @@ If you pass a null argument to a method that matches multiple signatures, what w
 
 To to list:
 
-* `synchronized`
-* `volatile`
-* generics
-* strong and weak reference
-* private constructer
-* `public`, `protected`, `private` and no modifier
-* checked vs unchecked exception
-* threads
-* sockets
-* `static` block
-* serialization / deserialization and the `transient` keyword
-* streams
+- [x] `finally`
+- [x] `null` argument in overload method
+- [ ] `synchronized`
+- [ ] `volatile`
+- [ ] generics
+- [ ] strong and weak reference
+- [ ] private constructer
+- [ ] `public`, `protected`, `private` and no modifier
+- [ ] checked vs unchecked exception
+- [ ] threads
+- [ ] sockets
+- [ ] `static` block
+- [ ] serialization / deserialization and the `transient` keyword
+- [ ] streams
