@@ -25,9 +25,10 @@ public class NullInOverloadMethods {
 		
 		//If we know the type of the null value, then it's okay
 		Integer i = null;
-		test.method(i);
+		test.method(i); //method(Integer) null
 		String s = null;
-		test.method(s);
+		test.method(s); //method(String) null
+		
 	}
 
 	
