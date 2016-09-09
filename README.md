@@ -2,6 +2,7 @@
 
 * [Will the code inside the "finally" block still be executed if there is a return (or throw) statement inside the "try" or "catch" block?](#user-content-will-the-code-inside-the-finally-block-still-be-executed-if-there-is-a-return-or-throw-statement-inside-the-try-or-catch-block)
 * [What happens when you pass a null argument to an overload method?](#user-content-what-happens-when-you-pass-a-null-argument-to-an-overload-method)
+* [Serialization and Deserialization](#serialization-and-deserialization)
 
 ### [Will the code inside the "finally" block still be executed if there is a return (or throw) statement inside the "try" or "catch" block?](src/Finally.java)
 
